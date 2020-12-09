@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5bf7c34a0dc4e6348bea04faa70406ee, type: 3}
+  m_Name: BiraSpritesLibrary
+  m_EditorClassIdentifier: 
+  m_Labels:
+  - m_Name: Eyes
+    m_Hash: 120101800
+    m_CategoryList:
+    - m_Name: Open
+      m_Hash: 71445658
+      m_Sprite: {fileID: -3605045011462967468, guid: 3320b2939ceac3a4f8be60f0f64cf1e6,
+        type: 3}
+    - m_Name: Closed
+      m_Hash: 57362642
+      m_Sprite: {fileID: -4518508505155625817, guid: f19402370ed46394485aa31d39bea86c,
+        type: 3}

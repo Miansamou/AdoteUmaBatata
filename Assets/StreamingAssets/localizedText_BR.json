@@ -1,0 +1,260 @@
+{
+    "items": [
+        {
+            "key": "game_title",
+            "value": "Adote uma Batata"
+        },
+        {
+            "key": "start_button",
+            "value": "Toque para iniciar"
+        },
+        {
+            "key": "story_mode_btn",
+            "value": "Modo História"
+        },
+        {
+            "key": "options_btn",
+            "value": "Opções"
+        },
+        {
+            "key": "new_game_btn",
+            "value": "Novo Jogo"
+        },
+        {
+            "key": "load_game_btn",
+            "value": "Carregar Jogo"
+        },
+        {
+            "key": "back_btn",
+            "value": "Voltar"
+        },
+        {
+            "key": "select_language",
+            "value": "Idioma"
+        },
+        {
+            "key": "current_language",
+            "value": "Português"
+        },
+        {
+            "key": "MusicOption",
+            "value": "Músicas"
+        },
+        {
+            "key": "SoundOption",
+            "value": "Ambiente"
+        },
+        {
+            "key": "VoiceOption",
+            "value": "Vozes"
+        },
+        {
+            "key": "continue_btn",
+            "value": "Continuar"
+        },
+        {
+            "key": "backToMenu_btn",
+            "value": "Voltar ao Menu"
+        },
+        {
+            "key": "LoadScreen",
+            "value": "Carregando"
+        },
+        {
+            "key": "verse1",
+            "value": "♪ Batatinha quando nasce ♫"
+        },
+        {
+            "key": "verse2",
+            "value": "♫ Se esparrama pelo chão ♪"
+        },
+        {
+            "key": "verse3",
+            "value": "♪ Trabalhadô a recolhe ♫"
+        },
+        {
+            "key": "verse4",
+            "value": "♫ E a joga no caminhão ♪"
+        },
+        {
+            "key": "verse5",
+            "value": "♪ Transportada a rebite ♫"
+        },
+        {
+            "key": "verse6",
+            "value": "♫ Não tem como parar não ♪"
+        },
+        {
+            "key": "verse7",
+            "value": "♪ Coitadinha da batata ♫"
+        },
+        {
+            "key": "verse8",
+            "value": "♫ Vai sofrer no caldeirão ♪"
+        },
+        {
+            "key": "verse9",
+            "value": "♪ Ficam dentro de uns sacos ♫"
+        },
+        {
+            "key": "verse10",
+            "value": "♫ Sem nenhuma salvação ♪"
+        },
+        {
+            "key": "verse11",
+            "value": "♪ Tristemente as batatinhas ♫"
+        },
+        {
+            "key": "verse12",
+            "value": "♫ Vão virar a refeição ♪"
+        },
+        {
+            "key": "PTS1",
+            "value": "EU AINDA SOU A MAIOR DAS ESTRELAS DO K-POP!!"
+        },
+        {
+            "key": "Bira1",
+            "value": "Ehhhh..."
+        },
+        {
+            "key": "Bira2",
+            "value": "Ele já era, né gente? "
+        },
+        {
+            "key": "BigPotatoHead1",
+            "value": "Eu sei o que é isso"
+        },
+        {
+            "key": "BigPotatoHead2",
+            "value": "Essa é uma técnica de  tortura praticada pelos humanos"
+        },
+        {
+            "key": "BigPotatoHead3",
+            "value": "Que eles transformam as batatas em…"
+        },
+        {
+            "key": "BigPotatoHead4",
+            "value": "batatas fritas!!"
+        },
+        {
+            "key": "Kauai1",
+            "value": "Ahhh não acredito"
+        },
+        {
+            "key": "Kauai2",
+            "value": "Ele está frito ha ha ha ha ha"
+        },
+        {
+            "key": "Chips1",
+            "value": "Ai meu deus, mas eu vou ficar bronzeada?"
+        },
+        {
+            "key": "Chips2",
+            "value": "Acho que pode ser bom pra minha pele até. "
+        },
+        {
+            "key": "BigPotatoHead5",
+            "value": "NÃO!! Nós vamos ser fritos!"
+        },
+        {
+            "key": "Kauai3",
+            "value": "Ai minha santa polenta"
+        },
+        {
+            "key": "Kauai4",
+            "value": "Ele foi frito!"
+        },
+        {
+            "key": "Bira3",
+            "value": "Então ele se foi mesmo, né?"
+        },
+        {
+            "key": "BigPotatoHead6",
+            "value": "Eu estou andando com um bando de batatas..."
+        },
+        {
+            "key": "Kauai5",
+            "value": "Que legaaaal!"
+        },
+        {
+            "key": "Kauai6",
+            "value": "Minha vez, minha vez!"
+        },
+        {
+            "key": "Bira4",
+            "value": "Pelo visto foi.."
+        },
+        {
+            "key": "PTS2",
+            "value": "UMA ESTRELA NUNCA PERDE O BRILHO"
+        },
+        {
+            "key": "PTS3",
+            "value": "ME AJUDEM!!"
+        },
+        {
+            "key": "Farmer1",
+            "value": "Eita, acho que deixei uma batata cair na mesa"
+        },
+        {
+            "key": "Farmer2",
+            "value": "Não posso desperdiçar comida!"
+        },
+        {
+            "key": "ChipsLevelOne_1",
+            "value": "(Chips) Ai essa queda foi dura, coitadinho do meu corpinho… Como podemos sair daqui?"
+        },
+        {
+            "key": "BiraLevelOne_1",
+            "value": "(Bira) Ehhhhh, a gente caiu?"
+        },
+        {
+            "key": "BigHeadLevelOne_1",
+            "value": "(Big Potato Head) Eu sei que existe um lugar para irmos, o coração de mãe."
+        },
+        {
+            "key": "BiraLevelOne_2",
+            "value": "(Bira) O que é isso?"
+        },
+        {
+            "key": "BigHeadLevelOne_2",
+            "value": "(Big Potato Head) Todas as criaturas deste mundo são filhas de alguma mãe, e o coração dela sempre protegerá seus filhos, lá estaremos seguros!"
+        },
+        {
+            "key": "KauaiLevelOne_1",
+            "value": "(Kauai) E onde fica isso senhor sabichão??"
+        },
+        {
+            "key": "BigHeadLevelOne_3",
+            "value": "(Big Potato Head) É bom… ehhh"
+        },
+        {
+            "key": "BiraLevelOne_3",
+            "value": "(Bira) É uééé, eu ainda não entendi…"
+        },
+        {
+            "key": "ChipsLevelOne_2",
+            "value": "(Chips) Gente, primeiro vamos sair daqui, não aguento mais ficar nesse chão gelado!!"
+        },
+        {
+            "key": "BiraLevelOne_4",
+            "value": "(Bira) Concordo com a Velma, aproveitando… alguém mais está com fome?"
+        },
+        {
+            "key": "ChipsLevelOne_3",
+            "value": "(Chips) NÃO ME CHAMA DE VELMA, SUA BATATA!! Me chame de Chips!"
+        },
+        {
+            "key": "BiraLevelOne_5",
+            "value": "(Bira) Calma gente, nossa esperança está mais perto do que vocês imaginam, meus amigos, está a uma cozinha de distância."
+        },
+        {
+            "key": "EndGame",
+            "value": "Parabéns por sair da cozinha!!"
+        },
+        {
+            "key": "SkipCutscene",
+            "value": "Pular"
+        }
+    ]
+}

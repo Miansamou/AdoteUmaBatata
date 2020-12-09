@@ -1,0 +1,260 @@
+{
+    "items": [
+        {
+            "key": "game_title",
+            "value": "Adopt a Potato"
+        },
+        {
+            "key": "start_button",
+            "value": "Touch to Start"
+        },
+        {
+            "key": "story_mode_btn",
+            "value": "Story Mode"
+        },
+        {
+            "key": "options_btn",
+            "value": "Options"
+        },
+        {
+            "key": "new_game_btn",
+            "value": "New Game"
+        },
+        {
+            "key": "load_game_btn",
+            "value": "Load Game"
+        },
+        {
+            "key": "back_btn",
+            "value": "Back"
+        },
+        {
+            "key": "select_language",
+            "value": "Language"
+        },
+        {
+            "key": "current_language",
+            "value": "English"
+        },
+        {
+            "key": "MusicOption",
+            "value": "Musics"
+        },
+        {
+            "key": "SoundOption",
+            "value": "Sound"
+        },
+        {
+            "key": "VoiceOption",
+            "value": "Voices"
+        },
+        {
+            "key": "continue_btn",
+            "value": "Continue"
+        },
+        {
+            "key": "backToMenu_btn",
+            "value": "Back to Menu"
+        },
+        {
+            "key": "LoadScreen",
+            "value": "Loading"
+        },
+        {
+            "key": "verse1",
+            "value": "♪ Little potatoes when grow ♫"
+        },
+        {
+            "key": "verse2",
+            "value": "♪ Spread over the floor ♫"
+        },
+        {
+            "key": "verse3",
+            "value": "♪ Worker collect it and say: ♫"
+        },
+        {
+            "key": "verse4",
+            "value": "♪ \"How much more?\" ♫"
+        },
+        {
+            "key": "verse5",
+            "value": "♪ The truck move fast ♫"
+        },
+        {
+            "key": "verse6",
+            "value": "♪ Nobody can stop ♫"
+        },
+        {
+            "key": "verse7",
+            "value": "♪ Poor potatoes ♫"
+        },
+        {
+            "key": "verse8",
+            "value": "♪ Will suffer in the pot ♫"
+        },
+        {
+            "key": "verse9",
+            "value": "♪ In the farm are taken ♫"
+        },
+        {
+            "key": "verse10",
+            "value": "♪ And in barn booked ♫"
+        },
+        {
+            "key": "verse11",
+            "value": "♪ Now they need wait ♫"
+        },
+        {
+            "key": "verse12",
+            "value": "♪ Until be cooked ♫"
+        },
+        {
+            "key": "PTS1",
+            "value": "I'M STILL THE GREATEST K-POP STAR!!"
+        },
+        {
+            "key": "Bira1",
+            "value": "Ehhhh..."
+        },
+        {
+            "key": "Bira2",
+            "value": "He was gone, right guys?"
+        },
+        {
+            "key": "BigPotatoHead1",
+            "value": "I know what it is"
+        },
+        {
+            "key": "BigPotatoHead2",
+            "value": "This is a torture technique practiced by humans"
+        },
+        {
+            "key": "BigPotatoHead3",
+            "value": "They turn potatoes into…"
+        },
+        {
+            "key": "BigPotatoHead4",
+            "value": "French fries!!"
+        },
+        {
+            "key": "Kauai1",
+            "value": "Ahhh I don't believe"
+        },
+        {
+            "key": "Kauai2",
+            "value": "He's fried ha ha ha ha ha"
+        },
+        {
+            "key": "Chips1",
+            "value": "My goodness, but i will get tanned?"
+        },
+        {
+            "key": "Chips2",
+            "value": "I think it can be good for my skin even."
+        },
+        {
+            "key": "BigPotatoHead5",
+            "value": "NO!! We're going to be fried!"
+        },
+        {
+            "key": "Kauai3",
+            "value": "Oh my holy polenta"
+        },
+        {
+            "key": "Kauai4",
+            "value": "He was fried!"
+        },
+        {
+            "key": "Bira3",
+            "value": "So he's really gone, right?"
+        },
+        {
+            "key": "BigPotatoHead6",
+            "value": "I'm walking with a bunch of potatoes..."
+        },
+        {
+            "key": "Kauai5",
+            "value": "Coooool!"
+        },
+        {
+            "key": "Kauai6",
+            "value": "My turn, my turn!"
+        },
+        {
+            "key": "Bira4",
+            "value": "Apparently it was..."
+        },
+        {
+            "key": "PTS2",
+            "value": "A STAR NEVER LOSES SHINE"
+        },
+        {
+            "key": "PTS3",
+            "value": "HELP ME!!"
+        },
+        {
+            "key": "Farmer1",
+            "value": "Jeez, I think I dropped a potato on the table"
+        },
+        {
+            "key": "Farmer2",
+            "value": "I can't waste food!"
+        },
+        {
+            "key": "ChipsLevelOne_1",
+            "value": "(Chips) Then that fall was hard, poor body… How can we get out of here?"
+        },
+        {
+            "key": "BiraLevelOne_1",
+            "value": "(Bira) Ehhhhh, did we fall?"
+        },
+        {
+            "key": "BigHeadLevelOne_1",
+            "value": "(Big Potato Head) I know there is a place for us to go, a mother's heart."
+        },
+        {
+            "key": "BiraLevelOne_2",
+            "value": "(Bira) What is it?"
+        },
+        {
+            "key": "BigHeadLevelOne_2",
+            "value": "(Big Potato Head) All the creatures in this world are the daughters of some mother, and her heart will always protect her children, there we will be safe!"
+        },
+        {
+            "key": "KauaiLevelOne_1",
+            "value": "(Kauai) And where is that, smart guy ??"
+        },
+        {
+            "key": "BigHeadLevelOne_3",
+            "value": "(Big Potato Head) It's good... ehhh"
+        },
+        {
+            "key": "BiraLevelOne_3",
+            "value": "(Bira) É uééé, I still don't understand..."
+        },
+        {
+            "key": "ChipsLevelOne_2",
+            "value": "(Chips) Guys, first let's get out of here, I can't stand being on that icy floor anymore !!"
+        },
+        {
+            "key": "BiraLevelOne_4",
+            "value": "(Bira) I agree with Velma, taking advantage... is anyone else hungry?"
+        },
+        {
+            "key": "ChipsLevelOne_3",
+            "value": "(Chips) DON'T CALL ME VELMA, YOU POTATO !! Call me Chips!"
+        },
+        {
+            "key": "BiraLevelOne_5",
+            "value": "(Bira) Easy people, our hope is closer than you think, my friends, it is a kitchen away."
+        },
+        {
+            "key": "EndGame",
+            "value": "Congratulations on leaving the kitchen!!"
+        },
+        {
+            "key": "SkipCutscene",
+            "value": "Skip"
+        }
+    ]
+}

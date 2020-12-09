@@ -1,0 +1,452 @@
+fileFormatVersion: 2
+guid: 58e0df9a9f97d4a4697a71449481cd08
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5044130820835714104
+    second: MiniPotatoHead0001
+  - first:
+      213: 2933055416921856924
+    second: MiniPotatoHead0002
+  - first:
+      213: 3055175990325999696
+    second: MiniPotatoHead0003
+  - first:
+      213: -3934575197414754982
+    second: MiniPotatoHead0004
+  - first:
+      213: -757755627486630865
+    second: MiniPotatoHead0005
+  - first:
+      213: -8724636970716680044
+    second: MiniPotatoHead0006
+  - first:
+      213: 1119526375502851450
+    second: MiniPotatoHead0007
+  - first:
+      213: 9123639785047555243
+    second: MiniPotatoHead0008
+  - first:
+      213: -9063400708810064548
+    second: MiniPotatoHead0009
+  - first:
+      213: -5064236297346800975
+    second: MiniPotatoHead0010
+  - first:
+      213: -5734781403642632175
+    second: MiniPotatoHead0011
+  - first:
+      213: 2806939104853452886
+    second: MiniPotatoHead0012
+  - first:
+      213: -8204798476251210538
+    second: MiniPotatoHead0013
+  - first:
+      213: 4944332139429050046
+    second: MiniPotatoHead0014
+  - first:
+      213: 8410581719576330937
+    second: MiniPotatoHead0015
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MiniPotatoHead0001
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 955
+        width: 23
+        height: 22
+      alignment: 9
+      pivot: {x: 1.3913044, y: 0.59090906}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8342380b14a500640800000000000000
+      internalID: 5044130820835714104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniPotatoHead0002
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 979
+        width: 44
+        height: 44
+      alignment: 9
+      pivot: {x: 0.95454544, y: 0.54545456}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9b99289c5e44b820800000000000000
+      internalID: 2933055416921856924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniPotatoHead0003
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 845
+        width: 76
+        height: 75
+      alignment: 9
+      pivot: {x: 0.82894737, y: 0.5466667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 058fead406a266a20800000000000000
+      internalID: 3055175990325999696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniPotatoHead0004
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 922
+        width: 95
+        height: 101
+      alignment: 9
+      pivot: {x: 0.70526314, y: 0.5049505}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a55f70844b49569c0800000000000000
+      internalID: -3934575197414754982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniPotatoHead0005
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 19
+        width: 158
+        height: 218
+      alignment: 9
+      pivot: {x: 0.56962025, y: 0.46330276}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2c2b158549eb75f0800000000000000
+      internalID: -757755627486630865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniPotatoHead0006
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 763
+        width: 178
+        height: 260
+      alignment: 9
+      pivot: {x: 0.5, y: 0.38846153}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 490313676ecdbe680800000000000000
+      internalID: -8724636970716680044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniPotatoHead0007
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 763
+        width: 178
+        height: 260
+      alignment: 9
+      pivot: {x: 0.5, y: 0.38846153}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7d27889e4b598f00800000000000000
+      internalID: 1119526375502851450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniPotatoHead0008
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 763
+        width: 178
+        height: 260
+      alignment: 9
+      pivot: {x: 0.5, y: 0.38846153}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bac716e9b0ead9e70800000000000000
+      internalID: 9123639785047555243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniPotatoHead0009
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 763
+        width: 178
+        height: 260
+      alignment: 9
+      pivot: {x: 0.5, y: 0.38846153}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5d3a564315583280800000000000000
+      internalID: -9063400708810064548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniPotatoHead0010
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 763
+        width: 178
+        height: 260
+      alignment: 9
+      pivot: {x: 0.5, y: 0.38846153}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b221064be738b9b0800000000000000
+      internalID: -5064236297346800975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniPotatoHead0011
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 763
+        width: 178
+        height: 260
+      alignment: 9
+      pivot: {x: 0.5, y: 0.38846153}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1186d5392b6f960b0800000000000000
+      internalID: -5734781403642632175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniPotatoHead0012
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 763
+        width: 178
+        height: 260
+      alignment: 9
+      pivot: {x: 0.5, y: 0.38846153}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65861fa7e3044f620800000000000000
+      internalID: 2806939104853452886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniPotatoHead0013
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 501
+        width: 178
+        height: 260
+      alignment: 9
+      pivot: {x: 0.5, y: 0.38846153}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dc5169b143b22e80800000000000000
+      internalID: -8204798476251210538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniPotatoHead0014
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 501
+        width: 178
+        height: 260
+      alignment: 9
+      pivot: {x: 0.5, y: 0.38846153}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb6373672ebcd9440800000000000000
+      internalID: 4944332139429050046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniPotatoHead0015
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 239
+        width: 178
+        height: 260
+      alignment: 9
+      pivot: {x: 0.5, y: 0.38846153}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b2cdb5438368b470800000000000000
+      internalID: 8410581719576330937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

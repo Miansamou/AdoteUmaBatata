@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5bf7c34a0dc4e6348bea04faa70406ee, type: 3}
+  m_Name: WorkerArmLibrary
+  m_EditorClassIdentifier: 
+  m_Labels:
+  - m_Name: Hand
+    m_Hash: -2024739407
+    m_CategoryList:
+    - m_Name: OpenHand
+      m_Hash: -1579632021
+      m_Sprite: {fileID: -5376231757143032437, guid: dfac1b2f81d8b834aab16419d66c1d18,
+        type: 3}
+    - m_Name: ClosedHand
+      m_Hash: 1787077389
+      m_Sprite: {fileID: 7623445508759600280, guid: b3644ff71e368524a96dd631b390b94f,
+        type: 3}

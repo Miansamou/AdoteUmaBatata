@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5bf7c34a0dc4e6348bea04faa70406ee, type: 3}
+  m_Name: BigPotatoHeadLipSync
+  m_EditorClassIdentifier: 
+  m_Labels:
+  - m_Name: Mouth
+    m_Hash: 1594127251
+    m_CategoryList:
+    - m_Name: Mouth1
+      m_Hash: -360371910
+      m_Sprite: {fileID: -1604351660157762531, guid: 1de1d79e0f039a049a72e7478e78f132,
+        type: 3}
+    - m_Name: Mouth2
+      m_Hash: 1938585728
+      m_Sprite: {fileID: -2450730428808866465, guid: 1de1d79e0f039a049a72e7478e78f132,
+        type: 3}
+    - m_Name: Mouth3
+      m_Hash: 76236822
+      m_Sprite: {fileID: -5850566346642521766, guid: 1de1d79e0f039a049a72e7478e78f132,
+        type: 3}
+    - m_Name: Mouth4
+      m_Hash: -1695556171
+      m_Sprite: {fileID: 8524294577286759276, guid: 1de1d79e0f039a049a72e7478e78f132,
+        type: 3}
+    - m_Name: Mouth5
+      m_Hash: -303502045
+      m_Sprite: {fileID: -7164629158490062579, guid: 1de1d79e0f039a049a72e7478e78f132,
+        type: 3}
+    - m_Name: Mouth6
+      m_Hash: 1960950937
+      m_Sprite: {fileID: -1848718355769430228, guid: 1de1d79e0f039a049a72e7478e78f132,
+        type: 3}
+    - m_Name: Mouth7
+      m_Hash: 65440783
+      m_Sprite: {fileID: -3314642920361710512, guid: 1de1d79e0f039a049a72e7478e78f132,
+        type: 3}
+  - m_Name: Eye
+    m_Hash: 1245036881
+    m_CategoryList:
+    - m_Name: Eye1
+      m_Hash: -1610958060
+      m_Sprite: {fileID: 3745131390301358050, guid: 1de1d79e0f039a049a72e7478e78f132,
+        type: 3}
+    - m_Name: Eye2
+      m_Hash: 116648622
+      m_Sprite: {fileID: -5358683558782625176, guid: 1de1d79e0f039a049a72e7478e78f132,
+        type: 3}
+    - m_Name: Eye3
+      m_Hash: 1911872056
+      m_Sprite: {fileID: 1298794709569032423, guid: 1de1d79e0f039a049a72e7478e78f132,
+        type: 3}
+  - m_Name: Expression
+    m_Hash: -1754442287
+    m_CategoryList:
+    - m_Name: Expression1
+      m_Hash: 1923047584
+      m_Sprite: {fileID: 6294573093703627779, guid: 1de1d79e0f039a049a72e7478e78f132,
+        type: 3}
+    - m_Name: Expression2
+      m_Hash: -342478566
+      m_Sprite: {fileID: -7508054186520506620, guid: 1de1d79e0f039a049a72e7478e78f132,
+        type: 3}
+  - m_Name: Mustash
+    m_Hash: -1222731735
+    m_CategoryList:
+    - m_Name: Mustash1
+      m_Hash: -1042716349
+      m_Sprite: {fileID: 1200743440732912789, guid: 1de1d79e0f039a049a72e7478e78f132,
+        type: 3}
+    - m_Name: Mustash2
+      m_Hash: 1490041081
+      m_Sprite: {fileID: -3378466341857931933, guid: 1de1d79e0f039a049a72e7478e78f132,
+        type: 3}

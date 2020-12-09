@@ -1,0 +1,452 @@
+fileFormatVersion: 2
+guid: 7ffabeceb1fd5ec44870b27351705403
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6407250574210565868
+    second: MiniChips0001
+  - first:
+      213: -7375972994468273215
+    second: MiniChips0002
+  - first:
+      213: -6904229691206281022
+    second: MiniChips0003
+  - first:
+      213: 2788562129975209962
+    second: MiniChips0004
+  - first:
+      213: -7269722516087241636
+    second: MiniChips0005
+  - first:
+      213: 7221006926296513147
+    second: MiniChips0006
+  - first:
+      213: 792971518444104648
+    second: MiniChips0007
+  - first:
+      213: -896274359895729144
+    second: MiniChips0008
+  - first:
+      213: 8988985828943539645
+    second: MiniChips0009
+  - first:
+      213: 7335469280391582137
+    second: MiniChips0010
+  - first:
+      213: -1155713146117276736
+    second: MiniChips0011
+  - first:
+      213: -9097499300024220399
+    second: MiniChips0012
+  - first:
+      213: -936696745845071904
+    second: MiniChips0013
+  - first:
+      213: 3970593165518662953
+    second: MiniChips0014
+  - first:
+      213: 3331516018511459978
+    second: MiniChips0015
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MiniChips0001
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 4
+        width: 22
+        height: 23
+      alignment: 9
+      pivot: {x: 1.2954545, y: -0.13043478}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 419f241cc8fd417a0800000000000000
+      internalID: -6407250574210565868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniChips0002
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 42
+        width: 48
+        height: 53
+      alignment: 9
+      pivot: {x: 0.8229167, y: 0.1509434}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c328df14a743a990800000000000000
+      internalID: -7375972994468273215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniChips0003
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 29
+        width: 67
+        height: 66
+      alignment: 9
+      pivot: {x: 0.75373137, y: 0.28787878}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c8d1ff0daf3f20a0800000000000000
+      internalID: -6904229691206281022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniChips0004
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 196
+        width: 97
+        height: 107
+      alignment: 9
+      pivot: {x: 0.6340206, y: 0.41121495}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aef67479b76f2b620800000000000000
+      internalID: 2788562129975209962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniChips0005
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 305
+        width: 123
+        height: 206
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5406f463e1cc1b90800000000000000
+      internalID: -7269722516087241636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniChips0006
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 97
+        width: 123
+        height: 206
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7af98a7a8b263460800000000000000
+      internalID: 7221006926296513147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniChips0007
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 305
+        width: 123
+        height: 206
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cbecd90563310b00800000000000000
+      internalID: 792971518444104648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniChips0008
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 97
+        width: 123
+        height: 206
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80cdf15e73bcf83f0800000000000000
+      internalID: -896274359895729144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniChips0009
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 305
+        width: 123
+        height: 206
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbd23395cfa4fbc70800000000000000
+      internalID: 8988985828943539645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniChips0010
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 97
+        width: 123
+        height: 206
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b1d78e0272dcc560800000000000000
+      internalID: 7335469280391582137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniChips0011
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 97
+        width: 123
+        height: 206
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cb3e6f440516ffe0800000000000000
+      internalID: -1155713146117276736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniChips0012
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 97
+        width: 123
+        height: 206
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11501b556903fb180800000000000000
+      internalID: -9097499300024220399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniChips0013
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 97
+        width: 123
+        height: 206
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0efd3a1c54f2003f0800000000000000
+      internalID: -936696745845071904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniChips0014
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 305
+        width: 123
+        height: 206
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92d655a62716a1730800000000000000
+      internalID: 3970593165518662953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniChips0015
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 305
+        width: 123
+        height: 206
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8636eeea2ceb3e20800000000000000
+      internalID: 3331516018511459978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

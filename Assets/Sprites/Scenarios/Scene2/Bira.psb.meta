@@ -1,0 +1,350 @@
+fileFormatVersion: 2
+guid: ec5f5dba061578947b331ab566960bca
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: b2a9591990af98743ba3ff7cf1000886, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 1
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 1
+    streamingMipmapsPriority: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  spriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 0, y: 0}
+  mosaicSpriteImportData: []
+  rigSpriteImportData:
+  - name: SecondEye
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 534
+      width: 87
+      height: 64
+    spriteID: eea246b940196c142b10de68061f6615
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -16, y: 120}
+  - name: SecondEye_1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 606
+      width: 87
+      height: 64
+    spriteID: f94f1627dd7f3614da2a06e571c4ddd1
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -16, y: 192}
+  - name: <Grupo>
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 755
+      width: 9
+      height: 10
+    spriteID: e8e47052d7f06ea41920f34104d56731
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -53, y: 394}
+  - name: <Grupo>_1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 678
+      width: 24
+      height: 15
+    spriteID: e59d5b8dafd9d1f46bc331738b9b74cf
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -47, y: 321}
+  - name: <Grupo>_2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 732
+      width: 13
+      height: 15
+    spriteID: 1f6c091faa02aa7448f0ecb46ca0c9b8
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -50, y: 375}
+  - name: Camada 46
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 701
+      width: 15
+      height: 23
+    spriteID: a840ef4abe89e6744902447aa52d7e69
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -52, y: 347}
+  - name: <Grupo>_3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 773
+      width: 18
+      height: 3
+    spriteID: a2a7e97650d5e864f99777ca8b33ef70
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -48, y: 411}
+  - name: "<Caminho>\_+\_<Caminho>\_+\_<Caminho>\_+\_<Caminho>\_+\_<Caminho>\_+\_<Caminho>\_+\_<Caminho>\_+\_<Caminho>\_+\_<Caminho>\_+\_<Caminho>"
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 256
+      height: 522
+    spriteID: 50f62cabd07d93d42961ec2f0bfc56f9
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 4, y: 4}
+  platformSettings: []
+  mosaicLayers: 1
+  documentPivot: {x: 0, y: 0}
+  documentAlignment: 7
+  importHiddenLayers: 0
+  importedTextureWidth: 512
+  importedTextureHeight: 1024
+  documentSize: {x: 256, y: 522}
+  paperDollMode: 0
+  keepDupilcateSpriteName: 0
+  spriteCategoryList:
+    categories: []
+  textureActualWidth: 512
+  textureActualHeight: 1024
+  spritePackingTag: 
+  resliceFromLayer: 0
+  characterMode: 1
+  mosaicPSDLayers: []
+  rigPSDLayers:
+  - name: SecondEye
+    spriteName: SecondEye
+    isGroup: 0
+    parentIndex: -1
+    spriteID: eea246b940196c142b10de68061f6615
+    layerID: 44
+    mosaicPosition: {x: 4, y: 534}
+  - name: SecondEye
+    spriteName: SecondEye_1
+    isGroup: 0
+    parentIndex: -1
+    spriteID: f94f1627dd7f3614da2a06e571c4ddd1
+    layerID: 37
+    mosaicPosition: {x: 4, y: 606}
+  - name: <Grupo>
+    spriteName: <Grupo>
+    isGroup: 0
+    parentIndex: -1
+    spriteID: e8e47052d7f06ea41920f34104d56731
+    layerID: 22
+    mosaicPosition: {x: 4, y: 755}
+  - name: <Grupo>
+    spriteName: <Grupo>_1
+    isGroup: 0
+    parentIndex: -1
+    spriteID: e59d5b8dafd9d1f46bc331738b9b74cf
+    layerID: 18
+    mosaicPosition: {x: 4, y: 678}
+  - name: <Grupo>
+    spriteName: <Grupo>_2
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 1f6c091faa02aa7448f0ecb46ca0c9b8
+    layerID: 14
+    mosaicPosition: {x: 4, y: 732}
+  - name: Camada 46
+    spriteName: Camada 46
+    isGroup: 0
+    parentIndex: -1
+    spriteID: a840ef4abe89e6744902447aa52d7e69
+    layerID: 12
+    mosaicPosition: {x: 4, y: 701}
+  - name: <Grupo>
+    spriteName: <Grupo>_3
+    isGroup: 0
+    parentIndex: -1
+    spriteID: a2a7e97650d5e864f99777ca8b33ef70
+    layerID: 9
+    mosaicPosition: {x: 4, y: 773}
+  - name: "<Caminho>\_+\_<Caminho>\_+\_<Caminho>\_+\_<Caminho>\_+\_<Caminho>\_+\_<Caminho>\_+\_<Caminho>\_+\_<Caminho>\_+\_<Caminho>\_+\_<Caminho>"
+    spriteName: "<Caminho>\_+\_<Caminho>\_+\_<Caminho>\_+\_<Caminho>\_+\_<Caminho>\_+\_<Caminho>\_+\_<Caminho>\_+\_<Caminho>\_+\_<Caminho>\_+\_<Caminho>"
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 50f62cabd07d93d42961ec2f0bfc56f9
+    layerID: 51
+    mosaicPosition: {x: 4, y: 4}
+  characterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+  generateGOHierarchy: 0
+  textureAssetName: Bira Texture
+  prefabAssetName: Bira Prefab
+  spriteLibAssetName: Bira Sprite Lib
+  secondarySpriteTextures: []

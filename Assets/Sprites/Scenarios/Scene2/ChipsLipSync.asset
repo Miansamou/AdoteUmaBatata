@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5bf7c34a0dc4e6348bea04faa70406ee, type: 3}
+  m_Name: ChipsLipSync
+  m_EditorClassIdentifier: 
+  m_Labels:
+  - m_Name: Eye
+    m_Hash: 1245036881
+    m_CategoryList:
+    - m_Name: Eye1
+      m_Hash: -1610958060
+      m_Sprite: {fileID: -2917845141227811578, guid: 3a8c26d31f9d5a942bc97ecc87de9930,
+        type: 3}
+    - m_Name: Eye2
+      m_Hash: 116648622
+      m_Sprite: {fileID: -6771702081636690447, guid: 3a8c26d31f9d5a942bc97ecc87de9930,
+        type: 3}
+  - m_Name: Expression
+    m_Hash: -1754442287
+    m_CategoryList:
+    - m_Name: Expression1
+      m_Hash: 1923047584
+      m_Sprite: {fileID: 7207403240096581793, guid: 3a8c26d31f9d5a942bc97ecc87de9930,
+        type: 3}
+    - m_Name: Expression2
+      m_Hash: -342478566
+      m_Sprite: {fileID: -504794246396459136, guid: 3a8c26d31f9d5a942bc97ecc87de9930,
+        type: 3}
+  - m_Name: Mouth
+    m_Hash: 1594127251
+    m_CategoryList:
+    - m_Name: Mouth1
+      m_Hash: -360371910
+      m_Sprite: {fileID: -132151484769885815, guid: 3a8c26d31f9d5a942bc97ecc87de9930,
+        type: 3}
+    - m_Name: Mouth2
+      m_Hash: 1938585728
+      m_Sprite: {fileID: -1499692899785455661, guid: 3a8c26d31f9d5a942bc97ecc87de9930,
+        type: 3}
+    - m_Name: Mouth3
+      m_Hash: 76236822
+      m_Sprite: {fileID: -3279602630456269606, guid: 3a8c26d31f9d5a942bc97ecc87de9930,
+        type: 3}
+    - m_Name: Mouth4
+      m_Hash: -1695556171
+      m_Sprite: {fileID: -8500019010738967008, guid: 3a8c26d31f9d5a942bc97ecc87de9930,
+        type: 3}

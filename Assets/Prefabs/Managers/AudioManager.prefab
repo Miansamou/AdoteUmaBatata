@@ -1,0 +1,210 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7698697011436096347
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7698697011436096340}
+  - component: {fileID: 7698697011436096341}
+  m_Layer: 0
+  m_Name: AudioManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7698697011436096340
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7698697011436096347}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7698697011436096341
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7698697011436096347}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c670ae390f0100b40a80cbe9e6706766, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  musics:
+  - name: Menu Theme
+    clip: {fileID: 8300000, guid: 4ddac9ed5e986a74693c1fe99266692c, type: 3}
+    loop: 1
+    volume: 1
+    pitch: 1
+    source: {fileID: 0}
+  - name: Lamento Sertanejo Full Version
+    clip: {fileID: 8300000, guid: 91d7624bdd21c574798a9e801918a445, type: 3}
+    loop: 1
+    volume: 1
+    pitch: 1
+    source: {fileID: 0}
+  - name: Lamento Sertanejo Version One
+    clip: {fileID: 8300000, guid: 45c63253b5631d142aa76bfd93f457dd, type: 3}
+    loop: 0
+    volume: 1
+    pitch: 1
+    source: {fileID: 0}
+  - name: baiao de dois
+    clip: {fileID: 8300000, guid: 07879c45b96b00649b5912029731e50d, type: 3}
+    loop: 1
+    volume: 1
+    pitch: 1
+    source: {fileID: 0}
+  - name: EndGameMusic
+    clip: {fileID: 8300000, guid: deda971bb50a95f43985e5754981b5de, type: 3}
+    loop: 1
+    volume: 1
+    pitch: 1
+    source: {fileID: 0}
+  sounds:
+  - name: Wood button start animation
+    clip: {fileID: 8300000, guid: ef08ed6218a27c44ca55371157b4bf9a, type: 3}
+    loop: 0
+    volume: 0.75
+    pitch: 1
+    source: {fileID: 0}
+  - name: Wood button end animation
+    clip: {fileID: 8300000, guid: 6b56ac93cc936ef4ba38e5819cb4ad4f, type: 3}
+    loop: 0
+    volume: 0.75
+    pitch: 1
+    source: {fileID: 0}
+  - name: CharactersIn
+    clip: {fileID: 8300000, guid: c9ba076ec140f3c4d9d36cfc8e806f32, type: 3}
+    loop: 0
+    volume: 1
+    pitch: 1
+    source: {fileID: 0}
+  - name: PTSFries
+    clip: {fileID: 8300000, guid: 0719f515fe3f8e640a6331376651b0a7, type: 3}
+    loop: 0
+    volume: 1
+    pitch: 1
+    source: {fileID: 0}
+  voices:
+  - name: Cordel1
+    clip: {fileID: 8300000, guid: c3f5e5f2a6bc8094c91ef34fd36444c3, type: 3}
+    loop: 0
+    volume: 1
+    pitch: 1
+    source: {fileID: 0}
+  - name: Cordel2
+    clip: {fileID: 8300000, guid: ad8d6ec261fee0f45884f741effa50f0, type: 3}
+    loop: 0
+    volume: 1
+    pitch: 1
+    source: {fileID: 0}
+  - name: Cordel3
+    clip: {fileID: 8300000, guid: 767b934eaac2f3041bdc50787ade5a10, type: 3}
+    loop: 0
+    volume: 1
+    pitch: 1
+    source: {fileID: 0}
+  - name: Bira1
+    clip: {fileID: 8300000, guid: 2f3b6006a006df048bb3ab3130e8ca8e, type: 3}
+    loop: 0
+    volume: 1
+    pitch: 1
+    source: {fileID: 0}
+  - name: Bira2
+    clip: {fileID: 8300000, guid: 330a264817a40794d9b4e091f7311c9b, type: 3}
+    loop: 0
+    volume: 1
+    pitch: 1
+    source: {fileID: 0}
+  - name: PTS1
+    clip: {fileID: 8300000, guid: 11fbd28f30ffb8c4096a6f2358869e9d, type: 3}
+    loop: 0
+    volume: 1
+    pitch: 1
+    source: {fileID: 0}
+  - name: BigPotatoHead1
+    clip: {fileID: 8300000, guid: fa16f2dc9c9ef7b49b0d43ce1e27b7ec, type: 3}
+    loop: 0
+    volume: 1
+    pitch: 1
+    source: {fileID: 0}
+  - name: Kauai1
+    clip: {fileID: 8300000, guid: 8611b8a7eca3a294fa720dfc8bfb6417, type: 3}
+    loop: 0
+    volume: 1
+    pitch: 1
+    source: {fileID: 0}
+  - name: Chips1
+    clip: {fileID: 8300000, guid: 7e2ab2ccca7e73343be3af7aab29d6fd, type: 3}
+    loop: 0
+    volume: 1
+    pitch: 1
+    source: {fileID: 0}
+  - name: BigPotatoHead2
+    clip: {fileID: 8300000, guid: 0e7bbfa29addd7d438e4cb880e3726a8, type: 3}
+    loop: 0
+    volume: 1
+    pitch: 1
+    source: {fileID: 0}
+  - name: Kauai2
+    clip: {fileID: 8300000, guid: d928aaf7c79a4214b9c7b7e18a4bef40, type: 3}
+    loop: 0
+    volume: 1
+    pitch: 1
+    source: {fileID: 0}
+  - name: BigPotatoHead3
+    clip: {fileID: 8300000, guid: 213a2918dfc3a8942a86c4d68f605af4, type: 3}
+    loop: 0
+    volume: 1
+    pitch: 1
+    source: {fileID: 0}
+  - name: Kauai3
+    clip: {fileID: 8300000, guid: d3489919e17a9de4e93c31ffe7ea0ef4, type: 3}
+    loop: 0
+    volume: 1
+    pitch: 1
+    source: {fileID: 0}
+  - name: PTS2
+    clip: {fileID: 8300000, guid: 4f685a9c919b98f47b62661cf702b9cf, type: 3}
+    loop: 0
+    volume: 1
+    pitch: 1
+    source: {fileID: 0}
+  - name: Bira3
+    clip: {fileID: 8300000, guid: 9285f2e1d2b013e4ca61e86163ff3acf, type: 3}
+    loop: 0
+    volume: 1
+    pitch: 1
+    source: {fileID: 0}
+  - name: Farmer1
+    clip: {fileID: 8300000, guid: 9224733d8f3211f4b93449911810dceb, type: 3}
+    loop: 0
+    volume: 1
+    pitch: 1
+    source: {fileID: 0}
+  - name: Farmer2
+    clip: {fileID: 8300000, guid: bf96e0ee53222b24ba2e9507c68020d7, type: 3}
+    loop: 0
+    volume: 1
+    pitch: 1
+    source: {fileID: 0}
+  - name: PTS3
+    clip: {fileID: 8300000, guid: 520b6c31ce61a07488dc81c700181603, type: 3}
+    loop: 0
+    volume: 1
+    pitch: 1
+    source: {fileID: 0}

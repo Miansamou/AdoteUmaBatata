@@ -1,0 +1,452 @@
+fileFormatVersion: 2
+guid: 229ef9c62a7f6124882658d4ba5ce381
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2667901262782124581
+    second: MiniKauai0001
+  - first:
+      213: 9186070935360206886
+    second: MiniKauai0002
+  - first:
+      213: -4387066728195393793
+    second: MiniKauai0003
+  - first:
+      213: 2585244357405579659
+    second: MiniKauai0004
+  - first:
+      213: -5524229574194380531
+    second: MiniKauai0005
+  - first:
+      213: 5680701509459652468
+    second: MiniKauai0006
+  - first:
+      213: -5781941518272414229
+    second: MiniKauai0007
+  - first:
+      213: 5559637509764458381
+    second: MiniKauai0008
+  - first:
+      213: -2443277858003340246
+    second: MiniKauai0009
+  - first:
+      213: 1355541313002359867
+    second: MiniKauai0010
+  - first:
+      213: 7181536643065521101
+    second: MiniKauai0011
+  - first:
+      213: -5912706765171152537
+    second: MiniKauai0012
+  - first:
+      213: -1822334865174623691
+    second: MiniKauai0013
+  - first:
+      213: -1633943880347770554
+    second: MiniKauai0014
+  - first:
+      213: 7427915593999931226
+    second: MiniKauai0015
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MiniKauai0001
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 1001
+        width: 23
+        height: 22
+      alignment: 9
+      pivot: {x: 1.1304348, y: 0.6818182}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdd2e08cfe5b9fad0800000000000000
+      internalID: -2667901262782124581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniKauai0002
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 563
+        width: 44
+        height: 44
+      alignment: 9
+      pivot: {x: 0.8181818, y: 0.59090906}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6287fa788da7b7f70800000000000000
+      internalID: 9186070935360206886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniKauai0003
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 522
+        width: 78
+        height: 85
+      alignment: 9
+      pivot: {x: 0.74358976, y: 0.49411765}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff67afbed020e13c0800000000000000
+      internalID: -4387066728195393793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniKauai0004
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 500
+        width: 106
+        height: 107
+      alignment: 9
+      pivot: {x: 0.6037736, y: 0.5420561}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b891ebcbb02a0e320800000000000000
+      internalID: 2585244357405579659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniKauai0005
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 609
+        width: 151
+        height: 206
+      alignment: 9
+      pivot: {x: 0.51655626, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d01cf6c887ef553b0800000000000000
+      internalID: -5524229574194380531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniKauai0006
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 817
+        width: 156
+        height: 206
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47f2e5adce7e5de40800000000000000
+      internalID: 5680701509459652468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniKauai0007
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 817
+        width: 156
+        height: 206
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bed3a4bb2da62cfa0800000000000000
+      internalID: -5781941518272414229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniKauai0008
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 817
+        width: 156
+        height: 206
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d87a271ebdcc72d40800000000000000
+      internalID: 5559637509764458381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniKauai0009
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 817
+        width: 156
+        height: 206
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a243222bbbbb71ed0800000000000000
+      internalID: -2443277858003340246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniKauai0010
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 817
+        width: 156
+        height: 206
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3c4fd764a9dfc210800000000000000
+      internalID: 1355541313002359867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniKauai0011
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 817
+        width: 156
+        height: 206
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc32f570781f9a360800000000000000
+      internalID: 7181536643065521101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniKauai0012
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 817
+        width: 156
+        height: 206
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 769ace02688d1fda0800000000000000
+      internalID: -5912706765171152537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniKauai0013
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 609
+        width: 156
+        height: 206
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53a05736814c5b6e0800000000000000
+      internalID: -1822334865174623691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniKauai0014
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 609
+        width: 156
+        height: 206
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 641a2f4a2b01359e0800000000000000
+      internalID: -1633943880347770554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniKauai0015
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 609
+        width: 156
+        height: 206
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5753f1c0e1451760800000000000000
+      internalID: 7427915593999931226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

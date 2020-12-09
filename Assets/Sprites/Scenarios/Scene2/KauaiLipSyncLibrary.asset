@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5bf7c34a0dc4e6348bea04faa70406ee, type: 3}
+  m_Name: KauaiLipSyncLibrary
+  m_EditorClassIdentifier: 
+  m_Labels:
+  - m_Name: Mouth
+    m_Hash: 1594127251
+    m_CategoryList:
+    - m_Name: Mouth01
+      m_Hash: 1545699949
+      m_Sprite: {fileID: -7872039347132088709, guid: 349f95f4cb4712c42a85aefc38f39cb4,
+        type: 3}
+    - m_Name: Mouth02
+      m_Hash: -987180073
+      m_Sprite: {fileID: 1290548905826673921, guid: 349f95f4cb4712c42a85aefc38f39cb4,
+        type: 3}
+    - m_Name: Mouth03
+      m_Hash: -1305484479
+      m_Sprite: {fileID: -1300679642643320740, guid: 349f95f4cb4712c42a85aefc38f39cb4,
+        type: 3}
+    - m_Name: Mouth04
+      m_Hash: 743143138
+      m_Sprite: {fileID: -7130485496179264717, guid: 349f95f4cb4712c42a85aefc38f39cb4,
+        type: 3}
+    - m_Name: Mouth05
+      m_Hash: 1531725428
+      m_Sprite: {fileID: -1969292025514756474, guid: 349f95f4cb4712c42a85aefc38f39cb4,
+        type: 3}
+    - m_Name: Mouth06
+      m_Hash: -1035659314
+      m_Sprite: {fileID: -1896593841660295250, guid: 349f95f4cb4712c42a85aefc38f39cb4,
+        type: 3}
+    - m_Name: Mouth07
+      m_Hash: -1253955752
+      m_Sprite: {fileID: -7307938943999138760, guid: 349f95f4cb4712c42a85aefc38f39cb4,
+        type: 3}
+    - m_Name: Mouth08
+      m_Hash: 637352649
+      m_Sprite: {fileID: -6834986601403662880, guid: 349f95f4cb4712c42a85aefc38f39cb4,
+        type: 3}
+    - m_Name: Mouth09
+      m_Hash: 1392118367
+      m_Sprite: {fileID: -5689969084834777498, guid: 349f95f4cb4712c42a85aefc38f39cb4,
+        type: 3}
+    - m_Name: Mouth10
+      m_Hash: 842892218
+      m_Sprite: {fileID: -3336865565870510831, guid: 349f95f4cb4712c42a85aefc38f39cb4,
+        type: 3}
+    - m_Name: Mouth11
+      m_Hash: 1161474860
+      m_Sprite: {fileID: 3333556434924490397, guid: 349f95f4cb4712c42a85aefc38f39cb4,
+        type: 3}
+    - m_Name: Mouth12
+      m_Hash: -600579434
+      m_Sprite: {fileID: 4309464229248416498, guid: 349f95f4cb4712c42a85aefc38f39cb4,
+        type: 3}
+    - m_Name: Mouth13
+      m_Hash: -1422601728
+      m_Sprite: {fileID: 4309840452364062593, guid: 349f95f4cb4712c42a85aefc38f39cb4,
+        type: 3}
+  - m_Name: Glasses
+    m_Hash: 958358346
+    m_CategoryList:
+    - m_Name: Glasses1
+      m_Hash: 367810650
+      m_Sprite: {fileID: 567430804309930182, guid: 349f95f4cb4712c42a85aefc38f39cb4,
+        type: 3}
+    - m_Name: Glasses2
+      m_Hash: -1931146784
+      m_Sprite: {fileID: 5429327723215400, guid: 349f95f4cb4712c42a85aefc38f39cb4,
+        type: 3}
+    - m_Name: Glasses3
+      m_Hash: -69060234
+      m_Sprite: {fileID: 4831713263643547636, guid: 349f95f4cb4712c42a85aefc38f39cb4,
+        type: 3}

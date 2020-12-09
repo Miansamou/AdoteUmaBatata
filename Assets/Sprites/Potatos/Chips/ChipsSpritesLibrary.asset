@@ -1,0 +1,92 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5bf7c34a0dc4e6348bea04faa70406ee, type: 3}
+  m_Name: ChipsSpritesLibrary
+  m_EditorClassIdentifier: 
+  m_Labels:
+  - m_Name: L_Arm
+    m_Hash: -1759658809
+    m_CategoryList:
+    - m_Name: L_Arm
+      m_Hash: -1759658809
+      m_Sprite: {fileID: 1698461360174566629, guid: 835446568734cff428ee3dea67f2b4b5,
+        type: 3}
+    - m_Name: L_ArmReflect
+      m_Hash: -1653862416
+      m_Sprite: {fileID: -7233078665661359998, guid: aae2830a8a475344ab6d8d332eccfb1a,
+        type: 3}
+    - m_Name: L_ArmSemiReflect
+      m_Hash: 1733982911
+      m_Sprite: {fileID: -4158345703500042870, guid: 8d345e57b6d1c4a4ca558fb5f47cd1fb,
+        type: 3}
+    - m_Name: L_ArmSemi
+      m_Hash: -469499459
+      m_Sprite: {fileID: -5784212552624059941, guid: 9a3e9d4ee14df644dae0df53e8f2ea3d,
+        type: 3}
+    - m_Name: L_Jump1
+      m_Hash: -1823257688
+      m_Sprite: {fileID: 6845275306501908741, guid: 8fae7ac498b49534d880f9f47588c6f9,
+        type: 3}
+    - m_Name: L_Jump2
+      m_Hash: 173677074
+      m_Sprite: {fileID: -3287349568192626148, guid: 66d603405647553448b3e46ab82e9cc1,
+        type: 3}
+    - m_Name: L_straight
+      m_Hash: -480403419
+      m_Sprite: {fileID: 8981743981054308699, guid: 695cf563ceda4fc42a01b6a45578b46e,
+        type: 3}
+  - m_Name: R_Arm
+    m_Hash: 1221432612
+    m_CategoryList:
+    - m_Name: R_Arm
+      m_Hash: 1221432612
+      m_Sprite: {fileID: 8156251973973242155, guid: aae2830a8a475344ab6d8d332eccfb1a,
+        type: 3}
+    - m_Name: R_ArmReflect
+      m_Hash: 2017800466
+      m_Sprite: {fileID: 742161615583673879, guid: 835446568734cff428ee3dea67f2b4b5,
+        type: 3}
+    - m_Name: R_ArmSemi
+      m_Hash: -2147051426
+      m_Sprite: {fileID: -6443516969434228104, guid: 8d345e57b6d1c4a4ca558fb5f47cd1fb,
+        type: 3}
+    - m_Name: R_ArmSemiReflected
+      m_Hash: -141612094
+      m_Sprite: {fileID: 3421397597961981391, guid: 9a3e9d4ee14df644dae0df53e8f2ea3d,
+        type: 3}
+    - m_Name: R_Jump1
+      m_Hash: -1531794373
+      m_Sprite: {fileID: -3554270640694482439, guid: 8fae7ac498b49534d880f9f47588c6f9,
+        type: 3}
+    - m_Name: R_Jump2
+      m_Hash: 1035730305
+      m_Sprite: {fileID: 3168373852109148097, guid: 66d603405647553448b3e46ab82e9cc1,
+        type: 3}
+    - m_Name: R_straight
+      m_Hash: -633728642
+      m_Sprite: {fileID: 8140033909990956855, guid: 695cf563ceda4fc42a01b6a45578b46e,
+        type: 3}
+  - m_Name: Eye
+    m_Hash: 1245036881
+    m_CategoryList:
+    - m_Name: Open
+      m_Hash: 71445658
+      m_Sprite: {fileID: 3687752169327914167, guid: aae2830a8a475344ab6d8d332eccfb1a,
+        type: 3}
+    - m_Name: MidOpen
+      m_Hash: -553666722
+      m_Sprite: {fileID: 4482606325881797857, guid: 835446568734cff428ee3dea67f2b4b5,
+        type: 3}
+    - m_Name: Closed
+      m_Hash: 57362642
+      m_Sprite: {fileID: -7223390273172146594, guid: 695cf563ceda4fc42a01b6a45578b46e,
+        type: 3}
